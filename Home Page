@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <link href='css/bootstrap.css' rel='stylesheet'/>
+      <link href='css/BRICS CSS.css' rel='stylesheet'/>
+
+      <title>BRICS Healthcare</title>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#BRICS">BRICS</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="file:///Users/ARAS/Documents/Code%20First/ChangingTrendsInAsia.github.io/Home%20Page","#Home">Home</a></li>
+      <li><a href="file:///Users/ARAS/Documents/Code%20First/ChangingTrendsInAsia.github.io/Health%20care%20in%20BRICS.html", "#healthcare">Healthcare in BRICS</a></li>
+      <li><a href="http://www.who.int/countries/bra/en/","#Brazil">Brazil</a></li>
+      <li><a href="http://www.who.int/countries/rus/en/","#Russia">Russia</a></li>
+      <li><a href="http://www.who.int/countries/ind/en/","#India">India</a></li>
+      <li><a href="http://www.who.int/countries/chn/en/","#China">China</a></li>
+      <li><a href="http://www.who.int/countries/zaf/en/","#South Africa">South Africa</a></li>
+      <li><a href="file:///Users/ARAS/Documents/Code%20First/ChangingTrendsInAsia.github.io/About%20Us", "#About">About Us</a></li>
+      <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSck3ZjnCGOOOf8x9syFoEzEDeVeyAo9tXsL7_LGqPEwhGwwYA/viewform?usp=sf_link","#Feedback">Feedback</a></li>
+    </ul>
+    </div>
+</nav>
+  <center>
+    <div class='text-centre col-sm-12'>
+      <img src="BRICS logo.png" alt="BRICS logo" style="width:450px;height:300px;">
+    </div>
+  </centre>
+    </head>
+
+  </div>
+    <body>
+      <div class='text-centre col-sm-12'>
+        <div id="WhatisBRICS">
+          <h1>What is BRICS?</h1>
+        </div>
+      </div>
+</div>
+<div id="main text home page">
+  <div class='container'>
+    <div class='row'>
+    <div id=whatisbricsbody>
+      <div class='text-centre col-sm-9'>
+      <p>BRICS: Brazil, Russia, India, China, and South Africa represent an
+      association of five emerging national economies. All 5 members are leading
+      or newly developed industrial nations. They represent half of world's population
+      (3.6 billion people). The five nations have a combined nominal GDP of
+      US$16.6 trillion, equivalent to approximately 22% of the gross world product.
+      </p>
+    </div>
+    </div>
+      <div class='text-centre col-sm-3'>
+        <div id='social-buttons'>
+          <button class='btn btn-news'><a href="http://thebricspost.com/">BRICS News</a></button>
+          <button class='btn btn-twitter'><a href="https://twitter.com/thebricspost?lang=en">Twitter</a></button>
+          <button class='btn btn-button'><a href="https://www.facebook.com/The-Brics-Post-176305575844581/">Facebook</a></button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='text-centre col-sm-12'>
+<div id=bricscountriesh2>
+      <h2>BRICS Countries</h2>
+    </div>
+    </div>
+      <div id="BRICScountrieshomepage">
+        <div class='container'>
+          <div class='row'>
+            <div class='text-centre col-sm-3'>
+              <img class='img-circle' src='brazil flag.png' alt='Brazil flag' height='100' width='100'>
+              <h3>Brazil</h3>
+              <p>Brazil is the largest country in South America, with a population of 206,440,850.  It is the world's fifth largest country in terms of
+                area and population. It is the world's eighth largest economy with abundant natural resources.
+                Brazil is active in agriculture, mining, manufacturing, and service sectors.  In 2006, Brazil's GDP was $15,048.  Brazil offers universal
+                health coverage.</p>
+              </div>
+          <div class='text-centre col-sm-2'>
+            <img class='img-circle' src='russian flag.jpeg' alt='Russian flag' height='100' width='100'>
+            <h3>Russia</h3>
+            <p>Russia is the largest country in the world by surface area, and ninth most populated with over 144 million people.  Russia has a developed high-income market economy with particular emphasis on natural resources (oil and gas).
+              It is the twelfth largest economy by GDP.  Universal health care is guaranteed by the constitution.</p>
+            </div>
+            <div class='text-centre col-sm-2'>
+              <img class='img-circle' src='indian flag.png' alt='Indian flag' height='100' width='100'>
+              <h3>India</h3>
+              <p>India is the second largest country population, and seventh largest in area.  It is the world's seventh largest economy by GDP, and is considered one
+                of the fastest growing economies, with the service sector being the largest contributor.  The health care system is mainly dominated by the private sector, with most expenses being out-of-pocket. </p>
+              </div>
+              <div class='text-centre col-sm-2'>
+                <img class='img-circle' src='chinese flag.jpg' alt='Chinese flag' height='100' width='100'>
+                <h3>China</h3>
+                <p>China is the largest country by population, with over 1.38 billion people.  It is the second largest state by land area.  China is home to one of the world's earliest civilizations.  It is a fast growing major economy.  China is the
+                largest exporter of goods, and is the second largest importer of goods. The private sector dominates the healthcare system. </p>
+              </div>
+              <div class='text-centre col-sm-3'>
+                <img class='img-circle' src='south africa flag.gif' alt='South Africa flag' height='100' width='100'>
+                <h3>South Africa</h3>
+                <p>South Africa is the 25th largest country by land area.  It has a population of 55 million.  South Africa is the southern most country in the eastern hemisphere.  It has a multiethnic society, and a wide variety of cultures and
+                  languages.  It has the second largest economy in Africa, after Nigeria.  South Africa's healthcare system comprises of public and private funding.</p>
+              </div>
+              </div>
+      </div>
+      </div>
+    </body>
+  </html>

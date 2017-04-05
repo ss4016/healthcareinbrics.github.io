@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <link href='css/bootstrap.css' rel='stylesheet'/>
+      <link href='css/BRICS CSS.css' rel='stylesheet'/>
+
+      <title>About Us</title>
+    <head>
+    <body>
+      <nav class="navbar navbar-default">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="#BRICS">BRICS</a>
+            </div>
+        <ul class="nav navbar-nav">
+          <li><a href="file:///Users/ARAS/Documents/Code%20First/ChangingTrendsInAsia.github.io/Home%20Page","#Home">Home</a></li>
+          <li><a href="file:///Users/ARAS/Documents/Code%20First/ChangingTrendsInAsia.github.io/Health%20care%20in%20BRICS.html", "#healthcare">Healthcare in BRICS</a></li>
+          <li><a href="http://www.who.int/countries/bra/en/","#Brazil">Brazil</a></li>
+          <li><a href="http://www.who.int/countries/rus/en/","#Russia">Russia</a></li>
+          <li><a href="http://www.who.int/countries/ind/en/","#India">India</a></li>
+          <li><a href="http://www.who.int/countries/chn/en/","#China">China</a></li>
+          <li><a href="http://www.who.int/countries/zaf/en/","#South Africa">South Africa</a></li>
+          <li><a href="file:///Users/ARAS/Documents/Code%20First/ChangingTrendsInAsia.github.io/About%20Us", "#About">About Us</a></li>
+          <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSck3ZjnCGOOOf8x9syFoEzEDeVeyAo9tXsL7_LGqPEwhGwwYA/viewform?usp=sf_link","#Feedback">Feedback</a></li>
+        </ul>
+        </div>
+      </nav>
+<div class='text-centre col-sm-12'>
+  <div id="aboutus">
+      <h1>About Us</h1>
+      <p>We are Imperial College students interested in trends occurring in
+        BRICS countries, and how these changes may influence health care systems.</p>
+    </div>
+</div>
+    <div class='text-centre col-sm-12'>
+      <div id="contactus">
+      <h1>Contact Us</h1>
+      <div class='text-centre col-sm-12'>
+      <p>Kensington, London SW7 2AZ</p>
+      </div>
+    </div>
+    </div>
+    <div class='text-centre col-sm-12'>
+      <center>
+      <img src="Google Map About Us Page.jpg" alt="Contas" style="width:600px;height:400px;">
+      </center>
+    </div>
+    </body>
+  </html>

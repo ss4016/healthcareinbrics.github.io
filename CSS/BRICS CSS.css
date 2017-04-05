@@ -1,0 +1,119 @@
+header {
+  text-align: center;
+  background-size: cover;
+  color: white;
+}
+body {
+  background-image: url("http://www.clker.com/cliparts/5/D/u/N/J/C/worldmap-grey.svg");
+  background-color: white;
+  background-size: cover;
+  margin: 0px;
+  padding: 0px;
+}
+#BRICScountrieshomepage p {
+  text-align: left;
+  font-weight: 500;
+}
+#WhatisBRICS h1 {
+  background-color: rgba(255, 148, 77, 0.3);
+  text-align: left;
+  font-style: arial;
+  font-size: 30px;
+  margin-top: 0px;
+  text-indent: 60px;
+}
+.navbar {
+  text-align: center;
+  top: 0;
+  width: 100%;
+  background: rgba(255, 148, 77, 0.9);
+  border: none;
+}
+#HealthcareinBRICS h1 {
+  margin-top: 0px;
+  font-size: 25px;
+  background-color: rgba(255, 148, 77, 0.3);
+}
+#whatisbricsbody p {
+  text-align: left;
+  text-indent: 50px;
+  background: rgba(217, 217, 217, 0.7);
+  margin: 0px;
+  font-size: 18px;
+  font-weight: 500;
+}
+ul {
+  text color: black;
+}
+li:hover {
+  background-color: rgba(144,144,144,0.3);
+}
+.nav.navbar-nav li a {
+  color: black;
+  font-size: 18px;
+  font-style: arial;
+  text-align: center;
+}
+#bricscountriesh2 h2 {
+  background-color: rgba(255, 148, 77, 0.3);
+}
+#BRICScountrieshomepage h3 {
+  background: rgba(217, 217, 217, 0.7);
+  color: rgba(255, 148, 77, 1.0);
+  border: none;
+}
+#aboutus h1 {
+  margin-top: 0px;
+  font-size: 23px;
+  background-color: rgba(255, 148, 77, 0.3);
+  text-align: center;
+}
+#aboutus p {
+  font-size: 17px;
+  text-align: center;
+  font-weight: 600;
+}
+#contactus h1 {
+  font-size: 23px;
+  background-color: rgba(255, 148, 77, 0.3);
+  text-align: center;
+}
+#contactus p {
+  font-size: 17px;
+  text-align: center;
+  font-weight: 600;
+}
+#BRICScountrieshomepage p {
+  background-color: rgba(255, 148, 77, 0.3);
+}
+#HealthcareinBRICS p {
+  font-size: 20px;
+  font-weight: 600;
+}
+table {
+  width: 800px;
+  height: 300px;
+  text-align: left;
+  font-weight: 400;
+  font-size: 20px;
+  margin: 0px auto;
+  margin-top: 20px;
+}
+#table th {
+  padding-right: 30px;
+  background-color: rgba(255, 148, 77, 0.3);
+}
+#social-buttons button {
+  font-style: arial;
+  background-color: rgba(255, 148, 77, 0.9);
+  font-weight: 600;
+  margin: 10px;
+}
+#social-buttons button:hover {
+  background-color: rgba(144,144,144,0.3);
+}
+#social-buttons a {
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
